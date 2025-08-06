@@ -17,6 +17,6 @@ Um projeto em Python que consome a API pública da OpenWeatherMap para exibir da
 ## Como Executar
 
 1. **Clone o repositório**
-```bash
-git clone https://github.com/seuusuario/api-weather-dashboard.git
+Terminal
+git clone https://github.com/debora-berg/api-weather-dashboard.git
 cd api-weather-dashboard
