@@ -29,8 +29,6 @@ Os dados são apresentados em tabela com `pandas` e visualizados em gráfico com
 
 1. **Clone o repositório**
 
-Terminal
-
+```terminal
 git clone https://github.com/debora-berg/api-weather-dashboard.git
-
 cd api-weather-dashboard
